@@ -1,0 +1,14 @@
+/*
+ * AccountType.java class
+ * Matt Koenen
+ * IS 286 695
+ * Project 2 - Meramec Banking System
+ * 07/01/18
+ */
+
+package business;
+import java.util.ArrayList;
+
+public enum AccountType {
+    Checking,Savings, Money_Market,CD;
+}
